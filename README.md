@@ -1,6 +1,6 @@
 # Canon.com/ijsetup 
 
-[![Canon.com/ijsetup ](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup ](gett-started.png)](https://can.printredir.com)
 
 Canon printer drivers will help to install the latest and updated drivers software for your Canon printer. You can simply trust in the brands name to get the work done. To get started with your **ij.start.canon** Installation & Download you need a valid model number & visit **[canon.com/ijsetup](https://ijjsetup.github.io/)** and learn the steps to connect with your device.
 
